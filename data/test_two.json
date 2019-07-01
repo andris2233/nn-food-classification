@@ -1,0 +1,60 @@
+[
+  {
+    "cuisine": "greek",
+    "ingredients": [
+      "parsley",
+      "white cheese",
+      "lavash",
+      "butter",
+      "kefir"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "bell pepper",
+      "eggs",
+      "zucchini",
+      "leeks",
+      "salt"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "ground black pepper",
+      "salt",
+      "sausage casings",
+      "leeks",
+      "parmigiano reggiano cheese",
+      "cornmeal",
+      "water",
+      "extra-virgin olive oil"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "vanilla ice cream",
+      "banana liqueur",
+      "bananas",
+      "pineapple juice",
+      "chocolate syrup",
+      "whipped cream",
+      "coffee liqueur"
+    ]
+  },
+   {
+    "cuisine": "indian",
+    "ingredients": [
+      "curry powder",
+      "ground cumin",
+      "chicken wings",
+      "chopped onion",
+      "ground ginger",
+      "large garlic cloves",
+      "plain yogurt",
+      "chopped cilantro fresh"
+    ]
+  }
+]
